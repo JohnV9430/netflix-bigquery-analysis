@@ -56,10 +56,11 @@ netflix-bigquery-analysis
 ## 📷 Visualization
 The chart below shows the trend of Netflix content additions over time.
 
-screenshots/content_growth.png
+![Netflix Content Growth](screenshots/content_growth.png)
 
 ---
 
 ## ✅ Conclusion
 This project demonstrates how SQL can be used to analyze real-world datasets and extract meaningful business insights using structured queries and analytical techniques.
+
 
