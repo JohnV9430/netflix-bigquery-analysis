@@ -11,6 +11,13 @@ The goal of this project is to demonstrate:
 
 ---
 
+## 📥 Dataset
+The dataset used for this analysis is publicly available on Kaggle:
+
+🔗 https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+---
+
 ## 🛠 Tools Used
 - Google BigQuery
 - SQL
@@ -62,5 +69,6 @@ The chart below shows the trend of Netflix content additions over time.
 
 ## ✅ Conclusion
 This project demonstrates how SQL can be used to analyze real-world datasets and extract meaningful business insights using structured queries and analytical techniques.
+
 
 
