@@ -19,10 +19,9 @@ The dataset used for this analysis is publicly available on Kaggle:
 ---
 
 ## 🛠 Tools Used
-- Google BigQuery
-- SQL
-- Google Sheets (for visualization)
-- GitHub
+- Kaggle – Source of the dataset
+- Google BigQuery – Data storage, querying, and analysis
+- BigQuery Visualization – Used to explore trends and patterns
 
 ---
 
@@ -69,6 +68,7 @@ The chart below shows the trend of Netflix content additions over time.
 
 ## ✅ Conclusion
 This project demonstrates how SQL can be used to analyze real-world datasets and extract meaningful business insights using structured queries and analytical techniques.
+
 
 
 
